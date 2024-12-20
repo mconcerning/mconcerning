@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... things
 - 🌱 I’m currently learning ... stuff
 - 💞️ I’m looking to collaborate on ... not much
-- 📫 How to reach me ... please contact me when you find out because I have no idea
+- 📫 How to reach me ... please contact me when you find out because I have no idea where I am so if you could just send help please
 
 <!---
 mconcerning/mconcerning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
